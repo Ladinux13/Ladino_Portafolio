@@ -2,11 +2,11 @@
 
 Welcome! This repository gathers a curated selection of professional, academic, and technical projects that showcase my experience in:
 
-- ⚙️ Institutional process automation using Python  
-- 🤖 Machine learning models for classification and prediction  
-- 🗺️ Spatial and geospatial data analysis  
-- 📊 Interactive dashboards and data tools  
-- 🧪 Applied analytics across diverse contexts
+- Machine learning models for classification and prediction  
+- Spatial and geospatial data analysis  
+- Interactive dashboards and data tools
+- Institutional process automation using Python
+- Applied analytics across diverse contexts
 
 ---
 
