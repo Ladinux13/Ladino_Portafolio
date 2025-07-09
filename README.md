@@ -1,40 +1,28 @@
-# Arturo Ladino's Portfolio
+Geospatial Analysis Projects
 
-Welcome! This repository gathers a curated selection of professional, academic, and technical projects that showcase my experience in:
-
-- Machine learning models for classification and prediction  
-- Spatial and geospatial data analysis  
-- Interactive dashboards and data tools
-- Institutional process automation using Python
-- Applied analytics across diverse contexts
+This branch showcases advanced geospatial analytics and spatial statistics applied to real-world problems with territorial dimensions. It includes predictive models, multiscale analysis, and spatially-aware algorithms that integrate social, geographic, and economic data.
 
 ---
 
-## 🗂 Portfolio Structure
+## 📂 Featured Projects
 
-The portfolio is organized into four main branches, each focused on a specific technical domain:
+- **Spatial Markov Chains**  
+  Spatio-temporal modeling of institutional risk evolution using transition matrices and spatial autocorrelation (Moran’s I, LISA).
 
-| Branch | Description |
-|--------|-------------|
-| [`main`](https://github.com/Ladinux13/NombreDelRepo) | 📖 Overview and portfolio index (this page) |
-| [`aprendizaje-automatico`](https://github.com/Ladinux13/Ladino_Portafolio/tree/aprendizaje-automático) | Machine Learning models|
-| [`dashboards`](https://github.com/Ladinux13/Ladino_Portafolio/tree/Dashboard) | 📊 Streamlit-based interactive dashboards|
-| [`geoespaciales`](https://github.com/Ladinux13/NombreDelRepo/tree/geoespaciales) | 🗺️ Geospatial analysis and mapping using Python, QGIS, and PostGIS |
-| [`optimizacion-procesos`](https://github.com/Ladinux13/NombreDelRepo/tree/optimizacion-procesos) | ⚙️ Process automation, Excel replacement, and performance improvement tools |
+- **ML Models for Geographic Predictions**  
+  Supervised learning applied to predict risk and socioeconomic variables at regional and local levels.
 
-> ℹ️ *Each branch includes source code, documentation (PDF/Word), diagrams, and README files describing the projects in detail.*
+- **Housing Price Prediction**  
+  Machine learning using spatial attributes and web-scraped housing data to estimate real estate prices.
 
----
+- **Crime Prediction by Housing Location**  
+  Spatial crime analysis and risk estimation based on housing patterns and neighborhood characteristics.
 
-## 📥 How to explore
-
-You can navigate to each branch using the **branch dropdown menu** (top left), or click on the links above to dive directly into the content.
+- **Geographically Weighted Regression (GWR)**  
+  Spatially sensitive regression to explore local variations and relationships in geographic data.
 
 ---
 
-## 👨‍💻 About Me
-
-I'm a data scientist specializing in **Geospatial Information Sciences**, with a strong background in Python, public sector analytics, and applied AI.  
-See more on [GitHub Profile »](https://github.com/Ladinux13)
-
 ---
+
+🔙 Return to the [main repository overview](https://github.com/Ladinux13/Ladino_Portafolio) to explore other branches
