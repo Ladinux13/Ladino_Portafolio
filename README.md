@@ -1,4 +1,4 @@
-# 📊 Interactive Dashboards
+# Interactive Dashboards
 
 This branch showcases the development of an interactive dashboard for visualizing institutional supervision metrics, along with the individual charts that power it.
 
