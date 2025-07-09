@@ -13,4 +13,3 @@ As this is part of a professional portfolio, only key sections or representative
 -  **Anomaly Detection with Local Outlier Factor (LOF)**
 -  **Welch Test for statistical significance**
 -  **Socioeconomic Model Simulation**
--  **Cluster-Based Prediction Models**
