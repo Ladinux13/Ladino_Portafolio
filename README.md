@@ -13,3 +13,7 @@ As this is part of a professional portfolio, only key sections or representative
 -  **Anomaly Detection with Local Outlier Factor (LOF)**
 -  **Welch Test for statistical significance**
 -  **Socioeconomic Model Simulation**
+
+---
+
+🔙 Return to the [main repository overview](https://github.com/Ladinux13/Ladino_Portafolio) to explore other branches.
