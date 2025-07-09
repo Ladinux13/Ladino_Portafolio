@@ -15,8 +15,8 @@ This branch showcases advanced geospatial analytics and spatial statistics appli
 - **Housing Price Prediction**  
   Machine learning using spatial attributes and web-scraped housing data to estimate real estate prices.
 
-- **Crime Prediction by Housing Location**  
-  Spatial crime analysis and risk estimation based on housing patterns and neighborhood characteristics.
+- **Crime Housing Location**  
+  Spatial crime analysis based on housing patterns.
 
 - **Geographically Weighted Regression (GWR)**  
   Spatially sensitive regression to explore local variations and relationships in geographic data.
