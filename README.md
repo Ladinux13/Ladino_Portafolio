@@ -1,4 +1,4 @@
-# ⚙️ Analytics & Process Optimization
+# Analytics & Process Optimization
 
 This branch showcases projects focused on **automating operational workflows**, especially those originally handled in Excel, as well as the **creation of institutional indicators** for improved decision-making.
 
