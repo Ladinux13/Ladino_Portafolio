@@ -1,38 +1,20 @@
-# Arturo Ladino's Portfolio
+# ⚙️ Analytics & Process Optimization
 
-Welcome! This repository gathers a curated selection of professional, academic, and technical projects that showcase my experience in:
+This branch showcases projects focused on **automating operational workflows**, especially those originally handled in Excel, as well as the **creation of institutional indicators** for improved decision-making.
 
-- Machine learning models for classification and prediction  
-- Spatial and geospatial data analysis  
-- Interactive dashboards and data tools
-- Institutional process automation using Python
-- Applied analytics across diverse contexts
+Built mainly in **Python**, these tools streamline tasks, reduce manual errors, and enable fast, structured reporting using open-source technologies.
 
 ---
 
-## 🗂 Portfolio Structure
+## 📂 Featured Projects
 
-The portfolio is organized into four main branches, each focused on a specific technical domain:
+- **Automation of Excel-based Workflows**  
+  Full migration of manual Excel tasks to reproducible code with dynamic calculations, validation, and exports.
 
-| Branch | Description |
-|--------|-------------|
-| [`main`](https://github.com/Ladinux13/NombreDelRepo) | Overview and portfolio index (this page) |
-| [`aprendizaje-automatico`](https://github.com/Ladinux13/Ladino_Portafolio/tree/aprendizaje-automático) | Machine Learning models|
-| [`dashboards`](https://github.com/Ladinux13/Ladino_Portafolio/tree/Dashboard) | Streamlit-based interactive dashboards|
-| [`geoespaciales`](https://github.com/Ladinux13/Ladino_Portafolio/tree/Geografico) | Geospatial analysis and mapping using Python, QGIS, and PostGIS |
-| [`optimizacion-procesos`](https://github.com/Ladinux13/NombreDelRepo/tree/optimizacion-procesos) | Applied analytics across diverse contexts & Process automation|
+- **Operational Indicator Generator**  
+  Scripts to create custom institutional indicators for performance, efficiency, and tracking.
 
 ---
 
-## 📥 How to explore
+🔙 Return to the [main repository overview](https://github.com/Ladinux13/Portafolio) to explore other branches like Machine Learning, Dashboards, or Geospatial Analysis.
 
-You can navigate to each branch using the **branch dropdown menu** (top left), or click on the links above to dive directly into the content.
-
----
-
-## 👨‍💻 About Me
-
-I'm a data scientist specializing in **Geospatial Information Sciences**, with a strong background in Python, public sector analytics, and applied AI.  
-See more on [GitHub Profile »](https://github.com/Ladinux13)
-
----
