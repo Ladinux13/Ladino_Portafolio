@@ -1,26 +1,40 @@
-# 📊 Interactive Dashboards
+ 🧠 Arturo Ladino's Portfolio
 
-This branch showcases the development of an interactive dashboard for visualizing institutional supervision metrics, along with the individual charts that power it.
+Welcome! This repository gathers a curated selection of professional, academic, and technical projects that showcase my experience in:
 
-The dashboard was built using **Python**, **Streamlit**, and visualization libraries such as Plotly and Matplotlib to ensure a clear and accessible interface for non-technical users.
-
----
-
-## 📂 Contents
-
-- **Institutional Supervision Dashboard**  
-  A central visualization combining multiple indicators related to supervision coverage, attention, and frequency.
-
-- **Base charts**  
-  Standalone charts feeding the dashboard: radar plots, treemaps, funnel charts, and pie graphs.
+- ⚙️ Institutional process automation using Python  
+- 🤖 Machine learning models for classification and prediction  
+- 🗺️ Spatial and geospatial data analysis  
+- 📊 Interactive dashboards and data tools  
+- 🧪 Applied analytics across diverse contexts
 
 ---
 
-### Note
+## 🗂 Portfolio Structure
 
-> As part of a professional portfolio, this branch includes only **representative parts of the code**, highlighting logic and design without exposing full implementations or sensitive data.
+The portfolio is organized into four main branches, each focused on a specific technical domain:
+
+| Branch | Description |
+|--------|-------------|
+| [`main`](https://github.com/Ladinux13/NombreDelRepo) | 📖 Overview and portfolio index (this page) |
+| [`aprendizaje-automatico`](https://github.com/Ladinux13/NombreDelRepo/tree/aprendizaje-automatico) | 🤖 Machine Learning models for classification, NLP, and OCR |
+| [`dashboards`](https://github.com/Ladinux13/NombreDelRepo/tree/dashboards) | 📊 Streamlit-based interactive dashboards for institutional data |
+| [`geoespaciales`](https://github.com/Ladinux13/NombreDelRepo/tree/geoespaciales) | 🗺️ Geospatial analysis and mapping using Python, QGIS, and PostGIS |
+| [`optimizacion-procesos`](https://github.com/Ladinux13/NombreDelRepo/tree/optimizacion-procesos) | ⚙️ Process automation, Excel replacement, and performance improvement tools |
+
+> ℹ️ *Each branch includes source code, documentation (PDF/Word), diagrams, and README files describing the projects in detail.*
 
 ---
 
-🔙 Return to the [main repository overview](https://github.com/Ladinux13/Ladino_Portafolio) to explore other branches like Machine Learning, Geospatial Analysis, or Process Optimization.
+## 📥 How to explore
 
+You can navigate to each branch using the **branch dropdown menu** (top left), or click on the links above to dive directly into the content.
+
+---
+
+## 👨‍💻 About Me
+
+I'm a data scientist specializing in **Geospatial Information Sciences**, with a strong background in Python, public sector analytics, and applied AI.  
+See more on [GitHub Profile »](https://github.com/Ladinux13)
+
+---
