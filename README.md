@@ -1,4 +1,4 @@
- 🧠 Arturo Ladino's Portfolio
+# Arturo Ladino's Portfolio
 
 Welcome! This repository gathers a curated selection of professional, academic, and technical projects that showcase my experience in:
 
@@ -17,8 +17,8 @@ The portfolio is organized into four main branches, each focused on a specific t
 | Branch | Description |
 |--------|-------------|
 | [`main`](https://github.com/Ladinux13/NombreDelRepo) | 📖 Overview and portfolio index (this page) |
-| [`aprendizaje-automatico`](https://github.com/Ladinux13/NombreDelRepo/tree/aprendizaje-automatico) | 🤖 Machine Learning models for classification, NLP, and OCR |
-| [`dashboards`](https://github.com/Ladinux13/NombreDelRepo/tree/dashboards) | 📊 Streamlit-based interactive dashboards for institutional data |
+| [`aprendizaje-automatico`](https://github.com/Ladinux13/Ladino_Portafolio/tree/aprendizaje-automático) | Machine Learning models|
+| [`dashboards`](https://github.com/Ladinux13/Ladino_Portafolio/tree/Dashboard) | 📊 Streamlit-based interactive dashboards|
 | [`geoespaciales`](https://github.com/Ladinux13/NombreDelRepo/tree/geoespaciales) | 🗺️ Geospatial analysis and mapping using Python, QGIS, and PostGIS |
 | [`optimizacion-procesos`](https://github.com/Ladinux13/NombreDelRepo/tree/optimizacion-procesos) | ⚙️ Process automation, Excel replacement, and performance improvement tools |
 
