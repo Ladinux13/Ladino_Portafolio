@@ -10,7 +10,7 @@ This branch showcases advanced geospatial analytics and spatial statistics appli
   Spatio-temporal modeling of institutional risk evolution using transition matrices and spatial autocorrelation (Moran’s I, LISA).
 
 - **ML Models for Geographic Predictions**  
-  Supervised learning applied to predict risk and socioeconomic variables at regional and local levels.
+  Supervised learning applied to predict variables at regional and local levels.
 
 - **Housing Price Prediction**  
   Machine learning using spatial attributes and web-scraped housing data to estimate real estate prices.
