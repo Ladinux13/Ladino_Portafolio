@@ -16,7 +16,6 @@ The portfolio is organized into four main branches, each focused on a specific t
 
 | Branch | Description |
 |--------|-------------|
-| [`main`](https://github.com/Ladinux13/NombreDelRepo) | Overview and portfolio index (this page) |
 | [`aprendizaje-automatico`](https://github.com/Ladinux13/Ladino_Portafolio/tree/aprendizaje-automático) | Machine Learning models|
 | [`dashboards`](https://github.com/Ladinux13/Ladino_Portafolio/tree/Dashboard) | Streamlit-based interactive dashboards|
 | [`geoespaciales`](https://github.com/Ladinux13/Ladino_Portafolio/tree/Geografico) | Geospatial analysis and mapping using Python, QGIS, and PostGIS |
