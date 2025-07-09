@@ -1,4 +1,4 @@
-Geospatial Analysis Projects
+# Geospatial Analysis Projects
 
 This branch showcases advanced geospatial analytics and spatial statistics applied to real-world problems with territorial dimensions. It includes predictive models, multiscale analysis, and spatially-aware algorithms that integrate social, geographic, and economic data.
 
