@@ -16,11 +16,6 @@ The dashboard was built using **Python**, **Streamlit**, and visualization libra
 
 ---
 
-### Note
 
-> As part of a professional portfolio, this branch includes only **representative parts of the code**, highlighting logic and design without exposing full implementations or sensitive data.
-
----
-
-🔙 Return to the [main repository overview](https://github.com/Ladinux13/Ladino_Portafolio) to explore other branches like Machine Learning, Geospatial Analysis, or Process Optimization.
+🔙 Return to the [main repository overview](https://github.com/Ladinux13/Ladino_Portafolio) to explore other branches.
 
