@@ -16,5 +16,5 @@ Built mainly in **Python**, these tools streamline tasks, reduce manual errors, 
 
 ---
 
-🔙 Return to the [main repository overview](https://github.com/Ladinux13/Portafolio) to explore other branches like Machine Learning, Dashboards, or Geospatial Analysis.
+🔙 Return to the [main repository overview](https://github.com/Ladinux13/Ladino_Portafolio) to explore other branches like Machine Learning, Dashboards, or Geospatial Analysis.
 
