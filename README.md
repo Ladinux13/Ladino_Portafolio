@@ -1,4 +1,4 @@
-# 🤖 Machine Learning Projects
+# Machine Learning Projects
 
 This branch includes real-world applications of **machine learning** and **statistical modeling** used to support institutional analysis and decision-making.
 
@@ -6,9 +6,9 @@ This branch includes real-world applications of **machine learning** and **stati
 
 ## 📂 Projects featured
 
-- 📝 **Complaint and Report Classifier using NLP**
-- 📊 **Prediction Models**
-- 🔍 **Anomaly Detection with Local Outlier Factor (LOF)**
-- 🧪 **Welch Test for statistical significance**
-- 🧠 **Socioeconomic Model Simulation**
-- 🔢 **Cluster-Based Prediction Models**
+-  **Complaint and Report Classifier using NLP**
+-  **Prediction Models**
+-  **Anomaly Detection with Local Outlier Factor (LOF)**
+-  **Welch Test for statistical significance**
+-  **Socioeconomic Model Simulation**
+-  **Cluster-Based Prediction Models**
